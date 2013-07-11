@@ -1,0 +1,26 @@
+body {
+    background-image:url('');
+}
+
+#catasuy-name {
+    width: 500px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    text-align: center;
+}
+
+#catasuy-img {
+    width: 50px;
+    height: 50px;
+    background-image: url('/images/catatsuy50.png');
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 50px;
+    border: solid 2px #262626;
+    box-shadow: 0px 0px 5px 0px #262626;
+    cursor: pointer;
+}
